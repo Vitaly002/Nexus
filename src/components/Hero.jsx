@@ -64,7 +64,7 @@ const Hero = () => {
 
     useGSAP(() => {
         gsap.set("#video-frame", {
-          clipPath: "polygon(14% 0, 72% 0, 88% 90%, 0 95%)",
+          clipPath: "polygon(14% 0, 72% 0, 88% 90%, 0 95%)", // angled trapezoid-like shape
           borderRadius: "0% 0% 40% 10%",
         });
         gsap.from("#video-frame", {
@@ -84,7 +84,7 @@ const Hero = () => {
     const getVideoSrc = (index) => `videos/hero-${index}.mp4`;
 
     return (
-        <div id='nexus' className='relati ve h-dvh w-screen overflow-x-hidden'>
+        <div id='nexus' className='relative h-dvh w-screen overflow-x-hidden'>
 
             {isLoading && (
                 <div className='flex-center absolute z-[100] h-dvh w-screen overflow-hidden bg-violet-50'>
