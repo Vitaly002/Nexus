@@ -1,5 +1,5 @@
-# 🎮✨ React Game-Inspired Landing Page  
-**A motion-first experience built for impact**
+# 🎮✨ Game-Inspired Landing Page  
+**A seamless fusion of design, energy, and motion**
 
 > Built a visually striking, animation-driven landing page that blends bold motion design with a seamless user journey — delivering an immersive, high-energy experience.
 
