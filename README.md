@@ -1,8 +1,31 @@
-# React + Vite
+# 🎮✨ React Game-Inspired Landing Page  
+**A motion-first experience built for impact**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> Built a visually striking, animation-driven landing page that blends bold motion design with a seamless user journey — delivering an immersive, high-energy experience.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🎬 Highlights
+- 🎞️ **Smooth GSAP Animations** — timeline-based, scroll-triggered transitions  
+- ⚛️ **React-Powered Components** — reusable and lightweight  
+- 📱 **Fully Responsive** — designed to look great on every screen  
+- 💡 **Modern Motion Design** — inspired by cinematic websites and interactive media  
+
+---
+
+## 🖼️ Preview
+![Landing Page Preview](./public/img/banner.png)  
+*Bold visuals. Fluid motion. Built for engagement.*
+
+---
+
+## 🛠️ Tech Stack
+| Category | Tools |
+|-----------|-------|
+| **Library** | React |
+| **Animation** | GSAP |
+| **Styling** | CSS / Tailwind |
+| **Build Tool** | Vite |
+| **Deployment** | Vercel |
+
+---
